@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Bom vê-lo por aqui, meu nome é Antonio Sérgio, mas pode me chamar só de Sérgio!
+Atualmente sou estudante de ciências de dados na escola dnc e também possuo vasta experiência em Supply Chain, PCP e Produção!
 
-<!--
-**AntonioSergioSantana/AntonioSergioSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 👨🏽‍💼Fui Gerente de Produção em uma fábrica de Pontos de Vendas;
+ - 🏭Fui Coordenador de PCP em uma industria de Móveis;
+ - 👨🏽‍💻Hoje faça parte de um projeto de Machine Learning como estágio em uma grande Edtech nacional.
+ 
+ **Atualmente FOCADO em:**
+ <div style="display:inline">
+ <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ </div>
+ 
+ <a href="http://br.linkedin.com/in/asergiosantana">
+ <img scr="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>
+ </a>
+          
