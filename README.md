@@ -7,11 +7,15 @@ Atualmente sou estudante de ciências de dados na escola dnc e também possuo va
  
  **Atualmente FOCADO em:**
  <div style="display:inline">
- <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ &nbsp;&nbsp;<img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
  <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  </div>
  
- <a href="http://br.linkedin.com/in/asergiosantana">
- <img scr="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>
+ ##
+ 
+ ### Você pode me encontrar em:
+ 
+ &nbsp;<a href="https://br.linkedin.com/in/asergiosantana">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
           
