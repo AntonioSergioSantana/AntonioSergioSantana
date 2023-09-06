@@ -7,9 +7,9 @@ Trabalhando em um emocionante projeto com uma grande empresa do setor Edtech, on
  <div style="display:inline">
  &nbsp;&nbsp;<img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
  <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- </div>
- 
- ##
+ </div><br/>
+
+  "Hoje melhor do que ontem, amanhã melhor do que hoje!"
  
  ### Você pode me encontrar em:
  
