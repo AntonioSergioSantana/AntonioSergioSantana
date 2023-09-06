@@ -1,9 +1,7 @@
 ### Olá! Bom vê-lo por aqui, meu nome é Antonio Sérgio, mas pode me chamar só de Sérgio!
-Atualmente sou estudante de ciências de dados na escola dnc e também possuo vasta experiência em Supply Chain, PCP e Produção!
-
- - 👨🏽‍💼Fui Gerente de Produção em uma fábrica de Pontos de Vendas;
- - 🏭Fui Coordenador de PCP em uma industria de Móveis;
- - 👨🏽‍💻Hoje faça parte de um projeto de Machine Learning como estágio em uma grande Edtech nacional.
+Minha carreira teve suas raízes no Supply Chain, abrangendo materiais, compras, planejamento de produção, abastecimento e gerência de produção.
+Em julho de 2023, concluí com destaque o curso de Ciências de Dados, recebendo os selos de "Aluno Top 3" e "Projeto de Excelência" na turma.
+Trabalhando em um emocionante projeto com uma grande empresa do setor Edtech, onde meu objetivo foi mapear o comportamento dos alunos em sua plataforma de ensino. Utilizando as principais ferramentas como: Python e suas bibliotecas (Numpy, Seaborn, Matplotlib, Scikit-Learn), estatística, SQL, bancos de dados relacionais, Machine Learning, Data Storytelling, Scrum e o modelo CRISP-DM. Entregamos um modelo Machine Learning de Regressão que é capaz de identificar o padrão de comportamento do usuário e estimar um tempo médio para a empresa acionar uma medida de “incentivo, prémio...” para manter o aluno logado na plataforma.
  
  **Atualmente FOCADO em:**
  <div style="display:inline">
