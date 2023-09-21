@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Antonio Sérgio</h1>
+<h1 align="center">Olá 👋🏽, Eu sou Antonio Sérgio</h1>
 <h3 align="center">Um entusiasta por analise e visualização de dados para soluções de problemas no mundo corporativo!</h3>
 
 - 🌱 Continuo aprendendo **Python, Machine Learning, Dax, Power BI**
